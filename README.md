@@ -29,7 +29,7 @@ A data analysis project exploring coding communities, developer trends, and tech
 ## Installation
 
 bash
-git clone https://github.com/yourusername/Coders-Of-Delhi.git
+git clone https://github.com/Sanchit-Sharma-07/Coders-Of-Delhi.git
 
 jupyter notebook
 Future Work
